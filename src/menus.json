@@ -1,0 +1,193 @@
+{
+    "mcdonalds": [
+      {
+        "id": 1,
+        "name": "Big Mac",
+        "price": 199.00,
+        "category": "Non-Veg",
+        "image": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-big-mac-1:1-3-product-tile-desktop?wid=829&hei=515&dpr=off"
+      },
+      {
+        "id": 2,
+        "name": "McChicken",
+        "price": 179.00,
+        "category": "Non-Veg",
+        "image": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/20240620170701187878.png"
+      },
+      {
+        "id": 3,
+        "name": "McVeggie",
+        "price": 159.00,
+        "category": "Veg",
+        "image": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/700/20240620170836391715.png"
+      },
+      {
+        "id": 4,
+        "name": "French Fries",
+        "price": 99.00,
+        "category": "Veg",
+        "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_6050_SmallFrenchFries_Standing_832x472:product-header-desktop?wid=830&hei=456&dpr=off"
+      },
+      {
+        "id": 5,
+        "name": "Chicken Nuggets",
+        "price": 149.00,
+        "category": "Non-Veg",
+        "image": "https://example.com/images/chicken_nuggets.jpg"
+      },
+      {
+        "id": 6,
+        "name": "McAloo Tikki",
+        "price": 69.00,
+        "category": "Veg",
+        "image": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/1700495857848308.png"
+      },
+      {
+        "id": 7,
+        "name": "Filet-O-Fish",
+        "price": 199.00,
+        "category": "Non-Veg",
+        "image": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/20240620170443979874.png"
+      },
+      {
+        "id": 8,
+        "name": "Veg Maharaja Mac",
+        "price": 249.00,
+        "category": "Veg",
+        "image": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/20240620170610448695.png"
+      }
+    ],
+    "kfc": [
+      {
+        "id": 1,
+        "name": "Zinger Burger",
+        "price": 499.00,
+        "category": "Non-Veg",
+        "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K439.jpg?ver=49.79"
+      },
+      {
+        "id": 2,
+        "name": "Chicken Bucket",
+        "price": 1099.00,
+        "category": "Non-Veg",
+        "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002169.jpg?ver=49.79"
+      },
+      {
+        "id": 3,
+        "name": "Veggie Burger",
+        "price": 399.00,
+        "category": "Veg",
+        "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K787.jpg?ver=49.79"
+      },
+      {
+        "id": 4,
+        "name": "Popcorn Chicken",
+        "price": 299.00,
+        "category": "Non-Veg",
+        "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K136.jpg?ver=49.79"
+      },
+      {
+        "id": 5,
+        "name": "French Fries",
+        "price": 199.00,
+        "category": "Veg",
+        "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K138.jpg?ver=49.79"
+      },
+      {
+        "id": 6,
+        "name": "Chicken Wings",
+        "price": 599.00,
+        "category": "Non-Veg",
+        "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K303.jpg?ver=49.79"
+      },
+      {
+        "id": 7,
+        "name": "Veg Rice Bowl",
+        "price": 449.00,
+        "category": "Veg",
+        "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K869.jpg?ver=49.79"
+      },
+      {
+        "id": 8,
+        "name": "Chicken Rice Bowl",
+        "price": 549.00,
+        "category": "Non-Veg",
+        "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K872.jpg?ver=49.79"
+      },
+      {
+        "id": 9,
+        "name": "Coleslaw",
+        "price": 149.00,
+        "category": "Veg",
+        "image": "https://qph.cf2.quoracdn.net/main-qimg-d617742ea38a65c1dc13ec43b4d9ec62-lq"
+      }
+    ],
+    "dominos": [
+      {
+        "id": 1,
+        "name": "Margherita",
+        "price": 199.00,
+        "category": "Veg",
+        "image": "https://www.dominos.co.in/files/items/Margherit.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Farmhouse",
+        "price": 299.00,
+        "category": "Veg",
+        "image": "https://www.dominos.co.in/files/items/Farmhouse.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Indi Tandoori Paneer",
+        "price": 379.00,
+        "category": "Veg",
+        "image": "https://www.dominos.co.in/files/items/IndianTandooriPaneer.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Mexican Green Wave",
+        "price": 299.00,
+        "category": "Veg",
+        "image": "https://www.dominos.co.in/files/items/Mexican_Green_Wave.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Chicken Sausage",
+        "price": 329.00,
+        "category": "Non-Veg",
+        "image": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(17).png"
+      },
+      {
+        "id": 6,
+        "name": "Veggie Paradise",
+        "price": 299.00,
+        "category": "Veg",
+        "image": "https://www.dominos.co.in/files/items/Digital_Veggie_Paradise_olo_266x265.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Paneer Makhani",
+        "price": 349.00,
+        "category": "Veg",
+        "image": "https://www.dominos.co.in/files/items/Paneer_Makhni.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Chicken Golden Delight",
+        "price": 369.00,
+        "category": "Non-Veg",
+        "image": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(14).png"
+      },
+      
+      {
+        "id": 9,
+        "name": "Pepper Barbecue Chicken",
+        "price": 349.00,
+        "category": "Non-Veg",
+        "image": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(15).png"
+      }
+      
+    ]
+  }
+  
